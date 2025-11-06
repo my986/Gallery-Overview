@@ -1,6 +1,6 @@
 
   {
-      "name": "Gallery-Overview-Page",
+      "name": "GalleryOverviewPage",
       "version": "0.1.0",
       "private": true,
       "dependencies": {
